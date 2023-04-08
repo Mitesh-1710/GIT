@@ -2,7 +2,8 @@
 
 ## Cheat Sheet for **Markdown**
 
-> Hedings 
+
+> Headings 
 
 \# Heading 1
 <br>
@@ -37,21 +38,19 @@
 <br>
 
 > Blockquotes
-<br>
 
 \> 
-<br>
+
 <br>
 
 > Bullet Point
-<br>
 
 \*
 
 <br>
 
 > Ordered Lists
-<br>
+
 1. First Item
 2. Second Item
    1. Nested Item
@@ -60,42 +59,36 @@
 <br>
 
 > Horizontal Line
-<br>
 
 \---
 
 <br>
 
 > Strikethrough
-<br>
 
 This is \~~Strikethrough~~
 
 <br>
 
 > Links
-<br>
 
 \[Link Title](URL "Hover over title")
 
 <br>
 
 > Code Block
-<br>
 
-\`Write your code inside this`
+\`Write your code inside this\`
 
 <br>
 
 > Image
-<br>
 
 \!\[Image Title](URL)
 
 <br>
 
 > GitHub Code Block
-<br>
 
 \```Specify your programming language  
  Your Code```
@@ -108,12 +101,9 @@ This is \~~Strikethrough~~
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
-
 <br>
 
 > Tables
-<br>
 
 \|&nbsp;Field Name &nbsp;|&nbsp;Field Name&nbsp;|
 <br>
@@ -125,7 +115,6 @@ This is \~~Strikethrough~~
 <br>
 
 > Task List
-<br>
 
 \-&nbsp; \[&nbsp;x ] Task List 1
 
@@ -134,6 +123,7 @@ This is \~~Strikethrough~~
 \-&nbsp; \[&nbsp;x ] Task List 3
 
 *Here x represent a check to the task list*
+
 
 
 
