@@ -1,9 +1,6 @@
 # GIT ASSIGNMENT : ***(CREATE A README.MD FILE)***
 
 ## Cheat Sheet for **Markdown**
-### we can use <span style="color:purple;font-weight:bold"> CSS STYLE</span> in Markdown as well.
-
----
 
 > Hedings 
 
@@ -102,6 +99,15 @@ This is \~~Strikethrough~~
 
 \```Specify your programming language  
  Your Code```
+ 
+ *Below I have used diff to style text*
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 <br>
@@ -128,6 +134,7 @@ This is \~~Strikethrough~~
 \-&nbsp; \[&nbsp;x ] Task List 3
 
 *Here x represent a check to the task list*
+
 
 
 
