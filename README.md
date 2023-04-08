@@ -46,6 +46,7 @@
 > Bullet Point
 
 \*
+* Bullet Point
 
 <br>
 
@@ -62,11 +63,15 @@
 
 \---
 
+---
+
 <br>
 
 > Strikethrough
 
 This is \~~Strikethrough~~
+
+~~Strikethrough~~
 
 <br>
 
@@ -74,17 +79,22 @@ This is \~~Strikethrough~~
 
 \[Link Title](URL "Hover over title")
 
+[My GitHub Profile](https://github.com/Mitesh-1710)
+
 <br>
 
 > Code Block
 
 \`Write your code inside this\`
 
+`This is a code block"`
+
 <br>
 
 > Image
 
 \!\[Image Title](URL)
+![GitHub](GitHub.png)
 
 <br>
 
@@ -112,17 +122,28 @@ This is \~~Strikethrough~~
 \|&nbsp; &nbsp; &nbsp; &nbsp; Data &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; Data&nbsp; &nbsp; &nbsp; |  
 \|&nbsp; &nbsp; &nbsp; &nbsp; Data &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; Data&nbsp; &nbsp; &nbsp; |
 
+| First Name      | a.k.a | Last Name    |
+| :---        |    :----:   |          ---: |
+| Tony      |"Iron Man"      | Stark   |
+| Bruce   | "Batman"       | Wayne      |
+
 <br>
 
 > Task List
 
 \-&nbsp; \[&nbsp;x ] Task List 1
 
-\-&nbsp; \[&nbsp;] Task List 2
+\-&nbsp; \[&nbsp; ] Task List 2
 
 \-&nbsp; \[&nbsp;x ] Task List 3
 
 *Here x represent a check to the task list*
+
+- [x] Task List 1
+
+- [ ] Task List 2
+
+- [x] Task List 3
 
 
 
