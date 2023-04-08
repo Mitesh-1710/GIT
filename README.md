@@ -94,7 +94,8 @@ This is \~~Strikethrough~~
 > Image
 
 \!\[Image Title](URL)
-![GitHub](GitHub.png)
+
+![GitHub](GitHub.jpeg "GitHub")
 
 <br>
 
