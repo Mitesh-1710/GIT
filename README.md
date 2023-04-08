@@ -95,7 +95,7 @@ This is \~~Strikethrough~~
 
 \!\[Image Title](URL)
 
-![GitHub](GitHub.png "GitHub")
+![Markdown](https://markdown-here.com/img/icon256.png)
 
 <br>
 
